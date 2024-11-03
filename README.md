@@ -1,7 +1,8 @@
 # Hello ~~world~~, I am João Ricardo! 👋
-- 🌱 Currently studying Information Systems at Universidade de São Paulo;
-- :computer: I love to learn new things and, at the moment, I'm looking for new oportunities!
+- 🌱 Currently studying Information Systems at Universidade de São Paulo.
 - :ear: Feel free to speak to me in English, Portuguese or Japanese!
+- :computer: I love to learn new things and, at the moment, I'm looking for new oportunities!
+
 
 ## ⚡ Tech Stack
 

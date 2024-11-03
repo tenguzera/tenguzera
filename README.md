@@ -18,7 +18,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-ricardo-paiva-camargo-591b11293/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/319615813680365568)
 
-Or send a mail [here](mailto:jrpiavacamargo@gmail.com) !
+- 📧 or send a mail [here](mailto:jrpiavacamargo@gmail.com) !
 
 ## 🎧 Now Playing
 

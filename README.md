@@ -1,4 +1,4 @@
-# Hello ~~~world~~, I am João Ricardo! 👋
+# Hello ~~world~~, I am João Ricardo! 👋
 Currently studying Information Systems at Universidade de São Paulo, I love to learn things and, at the moment, looking for new oportunities!
 
 ## ⚡ Tech Stack
@@ -13,7 +13,7 @@ Currently studying Information Systems at Universidade de São Paulo, I love to 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-ricardo-paiva-camargo-591b11293/)
 
-or send a mail on [mail](mailto:jrpiavacamargo@gmail.com) .
+Or send a mail [here](mailto:jrpiavacamargo@gmail.com) !
 
 ## 🎧 Now Playing
 

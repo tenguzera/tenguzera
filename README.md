@@ -1,5 +1,7 @@
 # Hello ~~world~~, I am João Ricardo! 👋
-Currently studying Information Systems at Universidade de São Paulo, I love to learn and, at the moment, looking for new oportunities!
+- 🌱 Currently studying Information Systems at Universidade de São Paulo;
+- :computer: I love to learn new things and, at the moment, I'm looking for new oportunities!
+- :ear: Feel free to speak to me in English, Portuguese or Japanese!
 
 ## ⚡ Tech Stack
 
@@ -9,9 +11,11 @@ Currently studying Information Systems at Universidade de São Paulo, I love to 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-ricardo-paiva-camargo-591b11293/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-ricardo-paiva-camargo-591b11293/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/319615813680365568)
 
 Or send a mail [here](mailto:jrpiavacamargo@gmail.com) !
 

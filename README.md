@@ -1,5 +1,5 @@
 # Hello ~~world~~, I am João Ricardo! 👋
-Currently studying Information Systems at Universidade de São Paulo, I love to learn things and, at the moment, looking for new oportunities!
+Currently studying Information Systems at Universidade de São Paulo, I love to learn and, at the moment, looking for new oportunities!
 
 ## ⚡ Tech Stack
 
@@ -17,5 +17,5 @@ Or send a mail [here](mailto:jrpiavacamargo@gmail.com) !
 
 ## 🎧 Now Playing
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/n9sbc949pb9s6j8o3banerhzt)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=n9sbc949pb9s6j8o3banerhzt&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=n9sbc949pb9s6j8o3banerhzt&redirect=true)
 <br/>
